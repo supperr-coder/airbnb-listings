@@ -1,6 +1,6 @@
 Airbnb Mini Project
 
-By Sa Ziheng, Darryl Chia, Marcus Ang
+By Marcus Ang, Sa Ziheng, Darryl Chia
 
 The main areas of our contributions are:
 Marcus Ang: Language Cleaning, Vader Sentiment Analysis, Geographical Analysis
